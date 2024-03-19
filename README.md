@@ -19,7 +19,7 @@ Dessert Recipes App is an iOS application built using SwiftUI and Combine. It al
 
 1. **Clone the repository**
   ```bash
-    git clone https://github.com/yourusername/DessertRecipesApp.git
+    git clone [https://github.com/yourusername/DessertRecipesApp.git](https://github.com/DIRGH712/DessertRecipesApp.git)
   ```
 2. **Open the project in Xcode**
 
